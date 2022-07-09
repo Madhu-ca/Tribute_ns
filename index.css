@@ -66,8 +66,7 @@ body{
 }
 .works_row{
     display: flex;
-    padding:10px;
-   
+    justify-content: center;   
 }
 #l1{
     font-size: larger; 
@@ -95,8 +94,7 @@ body{
 }
 .awards_row{
     display: flex;
-    padding-left: 30px;
-    
+     justify-content: center;    
 }
 #a1{
     font-size: larger; 

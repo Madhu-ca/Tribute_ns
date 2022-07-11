@@ -1,3 +1,5 @@
-# first project in newton school-HTML CSS level-1
-project- Tribute website dedicating to Dr. Shivaram Karanth
+A Tribute Site
+This website is dedicated to Dr.Kota Shivaram Karanth.
+This is my first project.
+Please share your feedback about this website.
 
